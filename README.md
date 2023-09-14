@@ -1,4 +1,6 @@
-.. code:: python
+Simple codes print text
 
 
     print(input())
+
+   
